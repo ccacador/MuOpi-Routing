@@ -1,2 +1,2 @@
 # MuOpi-Routing
-Multi-objective routing algortihm
+Multi-objective routing algorithm
