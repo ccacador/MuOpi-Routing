@@ -1,0 +1,6 @@
+/Users/carloscacador/Projects/MuOpi/muopi-routing-csharp/MuOpi.RoutingCS/bin/Debug/netcoreapp1.1/MuOpi.RoutingCS.deps.json
+/Users/carloscacador/Projects/MuOpi/muopi-routing-csharp/MuOpi.RoutingCS/bin/Debug/netcoreapp1.1/MuOpi.RoutingCS.dll
+/Users/carloscacador/Projects/MuOpi/muopi-routing-csharp/MuOpi.RoutingCS/bin/Debug/netcoreapp1.1/MuOpi.RoutingCS.pdb
+/Users/carloscacador/Projects/MuOpi/muopi-routing-csharp/MuOpi.RoutingCS/obj/Debug/netcoreapp1.1/MuOpi.RoutingCS.AssemblyInfo.cs
+/Users/carloscacador/Projects/MuOpi/muopi-routing-csharp/MuOpi.RoutingCS/obj/Debug/netcoreapp1.1/MuOpi.RoutingCS.dll
+/Users/carloscacador/Projects/MuOpi/muopi-routing-csharp/MuOpi.RoutingCS/obj/Debug/netcoreapp1.1/MuOpi.RoutingCS.pdb

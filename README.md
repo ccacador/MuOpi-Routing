@@ -1,3 +1,3 @@
 # MuOpi-Routing
-Multi-objective routing algorithm - C# implementation
+Multi-objective routing algorithm - CSharp implementation
 
